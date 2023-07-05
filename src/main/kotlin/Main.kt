@@ -21,7 +21,7 @@ fun main() {
     farmer.introduction()
 
 
-
+5
 }
 
 open class Person(var name: String, var age: Int){
